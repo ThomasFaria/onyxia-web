@@ -39,6 +39,7 @@ export function createMockOnyxiaApiClient(): OnyxiaApiClient {
                         "nodeSelector": undefined,
                         "startupProbe": undefined,
                         "vault": undefined,
+                        "kubernetes": undefined,
                     },
                 ]),
             { "promise": true },
